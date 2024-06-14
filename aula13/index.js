@@ -1,15 +1,15 @@
-let umaString = 'Um texto';
+// let umaString = 'Um texto';
 
-console.log(`${umaString} em um lindo dia.`);
+// console.log(`${umaString} em um lindo dia.`);
 
-console.log(umaString.lastIndexOf('m', 3));
+// console.log(umaString.lastIndexOf('m', 3));
 
-console.log(umaString.search(/[x]/));
+// console.log(umaString.search(/[x]/));
 
-console.log(umaString.replace('Um', 'Outra'));
+// console.log(umaString.replace('Um', 'Outra'));
 
-let umaString2 ='O rato roeu a roupa do rei de roma.';
+// let umaString2 ='O rato roeu a roupa do rei de roma.';
 
-console.log(umaString2.replace(/r/g, '#'));
+// console.log(umaString2.replace(/r/g, '#'));
 
-console.log(umaString2.length); 
+// console.log(umaString2.length); 
